@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+.formulario{
+	float:left;
+	font-family:"Comic Sans MS", cursive;
+	font-size:12px;
+	padding-left:50px;
+	padding-top:50px;
+	width:550px;
+	padding-bottom:50px;
+	margin-left:250px;
+}
+.formulario-texto{
+	width:120px;
+	float:left;
+	font-family:"Comic Sans MS", cursive;
+	text-align:right;
+	padding-right:10px;
+	margin-bottom:8px;
+	font-size:13px;
+	color:#000;
+}
+.formulario-campo{
+	width:400px;
+	float:left;
+	margin-bottom:8px;
+	font-family:"Comic Sans MS", cursive;
+}
+.textfield-nome{
+	width:300px;
+	font-family:"Comic Sans MS", cursive;
+}
+.btn-contato-enviar{
+	width:69px;
+	height:28px;
+	border:;
+	font-family:"Comic Sans MS", cursive;
+	color: #000;
+	font-weight:bold;
+	margin-top:10px;
+	background-image:url(../img/btn.png);
+	font-size:12px;
+}
+
+.btn-contato-reset{
+	width:69px;
+	height:28px;
+	border:;
+	font-family:"Comic Sans MS", cursive;
+	color: #000;
+	font-weight:bold;
+	margin-top:10px;
+	background-image:url(../img/btn.png);
+	font-size:12px;
+}
+	
